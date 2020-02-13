@@ -1,7 +1,8 @@
 # 3d convolution from scratch
 
-In this lab we implement a 3d convolution operation from scratch. We don't deal with boundaries (no padding) but just crop them.
-Check out the outputs of various filters
+In this lab we implement a 3d convolution operation from scratch. We don't deal with boundaries (no padding) but just crop them. Try it yourself using [this notebook](https://github.com/dipam7/labs_computer_vision/blob/master/lab_1/cv_lab1.ipynb)
+
+**Sample outputs**
 
 1. Original image
 
